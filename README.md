@@ -1,2 +1,2 @@
-# Pok-mon-Nova
+# Pokémon Nova
 Pokémon Nova
