@@ -1,4 +1,4 @@
 # Pokémon Nova
 Pokémon Nova
 
-[please wait ...]
+Please wait ... [ 0% ]
