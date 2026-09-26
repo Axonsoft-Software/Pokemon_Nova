@@ -61,7 +61,7 @@ Primary physical-device work currently includes:
 - **iPhone 12 Pro Max**
 - Apple Silicon Mac development environment
 
-[More Device]([https://beispiel.de](https://github.com/Axonsoft-Software/Pokemon_Nova/tree/main/Device-Support)
+[More Device](https://github.com/Axonsoft-Software/Pokemon_Nova/tree/main/Device-Support)
 
 Device compatibility is still being validated. A device being listed here does **not** mean the project has completed release-quality certification on that hardware.
 
