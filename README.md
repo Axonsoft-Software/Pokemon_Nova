@@ -68,9 +68,9 @@ Device compatibility is still being validated. A device being listed here does *
 
 Pokémon Nova is being developed as a native Apple-platform project using:
 
-- **Swift**
-- **Metal** for graphics
-- **Xcode**
+- **Swift** (27.0)
+- **Metal** (v4)
+- **Xcode** (27.0)
 - native iOS/iPadOS and macOS application targets
 
 Public documentation intentionally stays at a product and capability level. Internal architecture, source-level implementation details, algorithms, signing identifiers, private configuration and development credentials are not documented here.
