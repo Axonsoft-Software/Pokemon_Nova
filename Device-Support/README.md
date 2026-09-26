@@ -3,6 +3,8 @@
 ## iPhone
 
 - iPhone 17 Pro Max
+- iPhone 16 Pro Max
+- iPhone 15 Pro Max
 - iPhone 12 Pro Max
 
 ## Mac
